@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\bin\Debug\Sınav Durumu Hesaplama.exe.config
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\bin\Debug\Sınav Durumu Hesaplama.exe
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\bin\Debug\Sınav Durumu Hesaplama.pdb
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav Durumu Hesaplama.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav_Durumu_Hesaplama.Form1.resources
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav_Durumu_Hesaplama.Properties.Resources.resources
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav Durumu Hesaplama.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav Durumu Hesaplama.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav Durumu Hesaplama.exe
+O:\Udemy\Udemy C# Örnekleri\Sınav Durumu Hesaplama\Sınav Durumu Hesaplama\obj\Debug\Sınav Durumu Hesaplama.pdb
